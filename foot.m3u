@@ -127,13 +127,21 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulate
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sbi880xife/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd?aws_sessionId=da4ff0f6-f627-4b99-8140-3c5b208e59c8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Atlético Madrid  vs  Manchester United - FUBO SPORTS - AQ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Atlético Madrid  vs  Manchester United - PARAMOUNT+ FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
+#KODIPROP:inputstream.adaptive.license_key=4a0f46ce24daa860faece13d51b16d9d:840322eebef0037605c2f9e16b5e52eb
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/tkhij043qz/out/v1/bc7cc30595c54f66828dedc8ba26cfe7/c635cc0c-d6e1-47f5-b312-42eb2c33c756-cenc.mpd?aws_sessionId=c0ebe3a2-66b6-4c56-9b55-5fc661d0306e
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Atlético Madrid  vs  Manchester United - VIX SPANISH FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c37d2f7ce64f0c34b5c9975b7e095220:cd0d9f33984364d05b0079a04ece8d44
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8akj9pufyn/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Stoke City  vs  Middlesbrough - beIN3 ENGLISH FHD
 #KODIPROP:inputstream=inputstream.adaptive
