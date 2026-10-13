@@ -39,11 +39,3 @@ https://otte.cache.aiv-cdn.net/bom-nitro/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Willow Cricket",🔴 South Africa  vs  Australia - WILLOW S3 - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01d12ab22d76cfd1129767a3fa6374e9:68d6f01365a1e6e6a14176bfd2760817
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhpm1ppbrl/out/v1/f6f41d7f9372439ca9f0e2fb6f219f16/cenc.mpd
-
