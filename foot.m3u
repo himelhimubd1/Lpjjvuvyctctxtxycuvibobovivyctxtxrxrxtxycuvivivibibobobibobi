@@ -87,6 +87,14 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulate
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xyzag3fuz4/out/v1/3c69feb3bb0b4653a88b3948081e40b5/f335c8fb-06e7-4a18-913d-28f2b8c60279-cenc.mpd?aws_sessionId=a6758bee-22b1-4545-9536-c72b9ceb6d50
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",ŠK Slovan Bratislava  vs  VfB Stuttgart - Paramount
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1a3552ee91f5143f9560b717041cad:07e22d2e13f4c1aad690072f75fd2dcc
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ye5acxtqqg/out/v1/855dbdb48c2749019782ea468de9cfb1/5f9bdac3-9c12-4af6-a4ab-8c766cd1e787-cenc.mpd?aws_sessionId=a436c432-b6d3-43e7-b2e7-556d230fb8ca
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Aston Villa  vs  Fenerbahçe - Paramount
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
