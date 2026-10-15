@@ -47,3 +47,19 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulate
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ulchnznt0z/out/v1/e3d051cda9e746e3bb5c0c7a36596926/b1c4c9a1-80eb-45c3-ac8c-525ed9f885d8-cenc.mpd?aws_sessionId=ae0cdd9d-13f1-4d7e-aa9d-e00577269dcf
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Lech Poznań  vs  Bayer 04 Leverkusen - Paramount
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a64c7e9b7f17e7fa502f28fd2670cbb:881f145b5a5350aa41bc25f9b0d8ad71
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/sudqdptbpr/out/v1/5c6921f7c7804621904a19563de7d33a/ecca096b-dd43-49bd-8081-30d72f547642-cenc.mpd?aws_sessionId=122ee1a2-5312-462f-b8bd-912609e3e416
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Torreense  vs  Sunderland - Paramount
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4700ba56160b1b94512e1c04c2346266:71d2ab0fa6673c5de8c2cef30d68c038
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/a2hfwpblxd/out/v1/47e7f029f72c46279ecb6b69886a5950/5175fc16-01ef-4a65-984f-91cff494574a-cenc.mpd?aws_sessionId=e2d3bafd-f2b8-4e34-b064-c5fb5b3a57fb
+
