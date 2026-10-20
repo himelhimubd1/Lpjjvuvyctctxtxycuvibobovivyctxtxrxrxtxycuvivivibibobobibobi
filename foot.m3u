@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Golazo Show - PARAMOUNT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01b05b4481f227edd4e746fa2cb6f788:49b7b1c9cc9f44e15df6d96a672a91ef
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/g2pac4npr8/out/v1/5c0eb4104ba94cf798e9550be8d69e31/c7e0445f-84e6-42c0-886c-4604ad4fbd26-cenc.mpd?aws_sessionId=39376716-6ad9-404e-ba34-e80d4d9238ac
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",🔴 Paris Saint-Germain  vs  FC Barcelona - SonyLiv Multi Language
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
