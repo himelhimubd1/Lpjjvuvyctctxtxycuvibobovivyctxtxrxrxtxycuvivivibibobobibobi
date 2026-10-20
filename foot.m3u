@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",🔴 Paris Saint-Germain  vs  FC Barcelona - Paramount
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",🔴 Paris Saint-Germain  vs  FC Barcelona - SonyLiv Multi Language
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=449ccf1954ef0a01197472717a5fa950:03b3265fadea745f577bf08b9d244d19
+#KODIPROP:inputstream.adaptive.license_key=ee57f538fd26460469615892f34a7526:fc8fd5a49a1116473b93c09e7beeb719
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yadbrylpvo/out/v1/96e52e06546e4dd78db54375d4c4435b/21d84208-bb17-4717-9a0b-f6e239cf7105-cenc.mpd?aws_sessionId=b49506a3-f7d9-476a-b686-1a3e575b3734
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/jlonvwiokx/out/v1/07bec687c8054c938519a604449e22aa/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",🔴 Paris Saint-Germain  vs  FC Barcelona - DAZN
 #KODIPROP:inputstream=inputstream.adaptive
@@ -15,6 +15,14 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulate
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 16; A001 Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/154.0.8037.106 Mobile Safari/537.36"}
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zvglcnyhtq/out/v1/ba52138f9f8244b1a2fa4426ee41815e/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",🔴 Paris Saint-Germain  vs  FC Barcelona - Paramount
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=449ccf1954ef0a01197472717a5fa950:03b3265fadea745f577bf08b9d244d19
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yadbrylpvo/out/v1/96e52e06546e4dd78db54375d4c4435b/21d84208-bb17-4717-9a0b-f6e239cf7105-cenc.mpd?aws_sessionId=b49506a3-f7d9-476a-b686-1a3e575b3734
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",🔴 Paris Saint-Germain  vs  FC Barcelona - TNT Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -22,14 +30,6 @@ https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zvglcnyhtq/out/v1
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",🔴 Paris Saint-Germain  vs  FC Barcelona - SonyLiv Eng
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee57f538fd26460469615892f34a7526:fc8fd5a49a1116473b93c09e7beeb719
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jlonvwiokx/out/v1/07bec687c8054c938519a604449e22aa/cenc.mpd?aws_sessionId=ce46099e-87e5-45e9-b36d-a7231e0547d4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",🔴 Paris Saint-Germain  vs  FC Barcelona - TUDN
 #KODIPROP:inputstream=inputstream.adaptive
@@ -55,7 +55,7 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e08nikhldp/out/v1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/otzveaxivr/out/v1/366bfe0613f34d7885083662c51eacea/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Liverpool FC  vs  Villarreal - Prime Version
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Liverpool FC  vs  Villarreal - Prime Vision
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
