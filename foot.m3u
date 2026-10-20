@@ -55,6 +55,14 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e08nikhldp/out/v1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/otzveaxivr/out/v1/366bfe0613f34d7885083662c51eacea/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Liverpool FC  vs  Villarreal - TUDN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0318f8267786a37981dd8f5337a59f12:4b5bf3d6626c56b5687e1f2c1a1e9cce
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
+https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/fm1xxtmp8y/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Liverpool FC  vs  Villarreal - Prime Vision
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -134,6 +142,14 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jljtpi5vhf/
 #KODIPROP:inputstream.adaptive.license_key=4184e19e3ff7628c44c30390cfea0ed2:8c04adebb1c3abb1dad47bc2ca7fb5d6
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/syvmy60vyz/out/v1/9a9d9f2bd0f6443b8500366d8a3acad7/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",AS Roma  vs  ŠK Slovan Bratislava - TUDN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d53a18230da5ba70d9e03b6511710855:e2bd94c5987c18b0df841f726e4cb2ff
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
+https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/m7d5nd1hvz/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Manchester City  vs  AEK Athens - Paramount+
 #KODIPROP:inputstream=inputstream.adaptive
