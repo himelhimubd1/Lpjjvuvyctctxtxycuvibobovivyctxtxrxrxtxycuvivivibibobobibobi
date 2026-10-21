@@ -7,3 +7,19 @@
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Willow Cricket",🔴 Afghanistan  vs  Bangladesh - Willow-AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/iplwybp0pk/out/v1/d71f03d9635c4fc0b1c911f743f98519/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Willow Cricket",🔴 Afghanistan  vs  Bangladesh - Willow-AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c9270d440ed7b9096f59ea36e8eb3e4:d9e4be23facd5a18a08c1b43d39c0b45
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ocbymwnxdg/out/v1/a1aa37dc29b04b4f9d633f54367c05fd/cenc.mpd
+
