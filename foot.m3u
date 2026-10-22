@@ -39,3 +39,19 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulate
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/qcpjsve3th/out/v1/462100e5f19d4a72aa7184cb82c98dcc/0e438090-b385-4fd7-b573-1e6841d7b8f8-cenc.mpd?aws_sessionId=a4428254-7155-4668-89cb-9091a5a161b1
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",SK Sturm Graz  vs  Olympique de Marseille - TUDN S2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b317450e2f6e50d7224479445b8e67:171f0c2651a1a3ba0226f4c5630e0ecd
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ajceoztq65/out/v1/9b3176bbc934402794da863d59ea939f/024b1662-0f77-4456-ad5a-96b6912fcc11-cenc.mpd?aws_sessionId=358a1f92-3e1e-4a3f-b8fc-8cac10a83719
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",GNK Dinamo Zagreb  vs  NEC Nijmegen - Patamount
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7b8b5c99bef26435695cb16bf5650d6:71b7c9a2d7b75c0a843637239ddb4799
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ftclg4v4ak/out/v1/08c7754d250a4412a5e896539d824572/ec4ef77c-6c57-42ea-971c-2438707c5f20-cenc.mpd?aws_sessionId=7585dac7-4cde-4489-bee4-7105060943fb
+
