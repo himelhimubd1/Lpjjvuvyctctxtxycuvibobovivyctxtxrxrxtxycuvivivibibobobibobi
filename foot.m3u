@@ -55,6 +55,14 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Brighton vs West Ham - PARAMOUNT+ FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17a46dba100570515a5b0da85a62d270:6323f0044a993288a04f45b331c360bf
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/srkulfgtkw/out/v1/e0316d0475ba4f49856859c6849364ba/d3ca1f99-d692-4bac-80c5-b21d2f4e994f-cenc.mpd?aws_sessionId=53bf1065-dd77-4185-a9bf-677d18c0a6a6
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Valencia vs Villarreal - beIN ENGLISH FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
