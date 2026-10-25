@@ -95,6 +95,14 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulate
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7dfhoajldz/out/v1/43edb751cd124d9abf12eb432736ce0c/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Lecce vs Juventus - FUBO SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2d72711cbbaab34994ec02410cac3d6:86635f1c446d726a56b714715463461b
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ugwvcr0np7/out/v1/d7f4f63d6d22400abc3e83956523a283/d0884b51-742d-4285-a66c-f72a9770eaee-cenc.mpd?aws_sessionId=21f99577-00a1-45ff-83a4-481b1a1f19be
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Lecce vs Juventus - beIN ENGLISH FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
