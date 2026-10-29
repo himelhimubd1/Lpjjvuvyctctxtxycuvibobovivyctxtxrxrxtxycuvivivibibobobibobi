@@ -11,9 +11,9 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6qhfwsk4zo/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81cceef47300d899003a2dd4f80a0ec4:0db92cc3f3a7b1c97af4aaef56d641ef
+#KODIPROP:inputstream.adaptive.license_key=3f9bba6398d727a70e33b03bc2c1957d:8df87cf8c3d56350ea0297ae273de0c3
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r6vs6zdomz/out/v1/d34a7d179f4f49f2b2f08ec490165d8b/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8x9f8fvjwv/out/v1/15d9b1a637644c4baa527bd43e8d87a5/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Willow Cricket",South Africa vs Australia - WILLOW FHD
 #KODIPROP:inputstream=inputstream.adaptive
