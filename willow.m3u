@@ -3,9 +3,9 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbfab2ae4f4e8a1705b4cdc7802e9304:29db7aa2585fdbc1d5892db6d04fe351
+#KODIPROP:inputstream.adaptive.license_key=5ad2836094f0f19bbdc4f9bf00405ce9:be7824f1197c39ec98d9b852c7b124af
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sdvqfcqoza/out/v1/1519bb4c746348ceb10f042aa84b70f0/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f0prkjuymq/out/v1/2e724fedaa1548a2a962b48de161b358/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Willow Cricket",Hong Kong Sixes 2026 - WILLOW ALT
 #KODIPROP:inputstream=inputstream.adaptive
