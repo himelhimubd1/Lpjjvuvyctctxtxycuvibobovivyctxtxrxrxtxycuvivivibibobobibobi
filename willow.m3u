@@ -3,9 +3,9 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4514f31e848acef7fd26d27fe8e77b2:e9c848142716a1ef70be1e38b1cc2cc6
+#KODIPROP:inputstream.adaptive.license_key=82616a7d2971c54cf6fe4d98c47b1302:8f4eee25604fa1c62120971843239d72
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f75yhdq23v/out/v1/598eae358be84a6190477baeee289e93/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rsn8la3i1v/out/v1/6127bc09ddeb4cc6ac735873fa204916/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Willow Cricket",Sydney Thunder Women vs Brisbane Heat Women - WILLOW FHD
 #KODIPROP:inputstream=inputstream.adaptive
