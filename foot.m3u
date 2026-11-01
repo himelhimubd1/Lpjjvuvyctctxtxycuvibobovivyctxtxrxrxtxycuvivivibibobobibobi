@@ -95,6 +95,22 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Frosinone vs Torino - PARAMOUNT+ FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f905d936f4562b52ee955d3ff3dcd06c:65f555c4104074c2f2d2fe7a9f685ed5
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z7k5coaglr/out/v1/f798f09d4b6b44de82700e47ff0207f6/cenc.mpd?aws_sessionId=d30fa58d-89fd-47ee-9f14-3bb210aa2b9e
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Frosinone vs Torino - FUBO SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yukpgzjukf/out/v1/e9584c6de0d145a9ac1b36ddf7795081/cenc.mpd?aws_sessionId=882cb45b-b0fd-4d57-999a-97cbc604a9b0
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Indian Super League ISL - PRIME VIDEO FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
