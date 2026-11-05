@@ -7,14 +7,6 @@
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ql07y2x0fs/out/v1/0ca1c0e93a214892bdf485039946da27/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",UEFA Europa League Simulcast - VIX Español FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd2acbe60f6fbdc0102b4a49767c256b:34526c737b51a163bcf22d6f579cce15
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cf5ye5bpxh/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",FC Midtjylland vs AFC Ajax - PARAMOUNT+ FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -78,6 +70,14 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h6mo5bpd5n/
 #KODIPROP:inputstream.adaptive.license_key=6c68cf9c54f358cbc080ce329b786719:97eeda31acf438172e4c1b2f6d721330
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i8gxp4x0zo/out/v1/5b47785e66814ea59c06686245b2db19/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Real Sociedad vs Olympique Lyonnais - SKY SPORT FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8cd50695fb14e27dfd8908637f1da467:2bbe80619ec5e303ef1b79781bf3b757
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1kw2e0yi13/out/v1/575f67f6b552422dba30742c7f965bcb/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",NEC Nijmegen vs Omonia Nicosia - PARAMOUNT+ FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -151,6 +151,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tkzhoqblsr/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",AC Milan vs Ferencváros TC - SKY SPORT FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adcea552d3c8a4b0b0dbdca678515855:2e31fe3f9a810b2d2ad67e6b5bca051e
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cckuiwhetl/out/v1/f1ada3a4d6464aa986a0167121f4ebc6/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Levski Sofia vs Jagiellonia Białystok - PARAMOUNT+ FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -199,6 +207,14 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3snkagpqst/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z6j0scbkoq/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Trabzonspor vs SC Freiburg - SKY SPORT FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2484b44f054879fa17565257cc5b1d62:0b81cdb3a7ebcf87fee0e5909a11cb36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5w8luhh9cb/out/v1/296c2486b8c3411fa2c2084e7ff878bc/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Crystal Palace vs TSG Hoffenheim - PARAMOUNT+ FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -223,6 +239,14 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xo9iurlevw/out/v1/beb2768ac7d0435bab70ce5cd6231ad7/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Crystal Palace vs TSG Hoffenheim - SKY SPORT FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6143636ed31683e00c86c4e1db64fcbf:bf6b251177b6b056366150d2ee8e40ad
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ecaigwgyua/out/v1/2ee814e65dda404693ce51fb41bd53a8/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",FK Crvena zvezda vs Inter Club d'Escaldes - PARAMOUNT+ FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -230,6 +254,14 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xo9iurlevw/
 #KODIPROP:inputstream.adaptive.license_key=74d7d035ce435fa7c3afaa7034cc6a32:fafb4c57201e353de27a251ae714c169
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/34run0kw9x/out/v1/eb7d5bef4437432680fdeff29f41930c/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",FK Crvena zvezda vs Inter Club d'Escaldes - VIX Español FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd2acbe60f6fbdc0102b4a49767c256b:34526c737b51a163bcf22d6f579cce15
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cf5ye5bpxh/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Lillestrøm SK vs FC Viktoria Plzeň - PARAMOUNT+ FHD
 #KODIPROP:inputstream=inputstream.adaptive
