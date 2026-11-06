@@ -207,14 +207,6 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ebgwjdnzl1/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fndhqb5vyt/out/v1/5efc084ec9ca4b1aafa86dd210901df8/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",FC Twente vs Pafos FC - VIX Español FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=38c1a7f780d779298b330be7d48995ad:fd0e972cb971b89a23170ec6441de461
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/djqohostal/out/v1/b5ef208fdea84ed8a2f0aefe7fdb86cf/cenc.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Getafe vs Brighton & Hove Albion - PARAMOUNT+ FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -247,14 +239,6 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qxnm1xgkfg/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jzye6faiqn/out/v1/4fdbc394587040a8bc1073019866e4c3/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",AS Monaco vs FC Nordsjælland - VIX Español FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7ed87c718ce47b65761f77720bf08eb:4c46fd4f60010a4dc00fd0f3e5639058
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ljjix3usw/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Panathinaikos FC vs CSKA Sofia - PARAMOUNT+ FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -270,14 +254,6 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kbd9ardif3/
 #KODIPROP:inputstream.adaptive.license_key=6d637bdd716c8070969484052deee0e1:1d9ce041f280027c11e1dc7c1830d7a9
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/acazlgaijv/out/v1/fc2868c52f99454f981068b8f2fe8614/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Riga FC vs FK Jablonec - VIX Español FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3556da62840a4e6accfbcfb006a8e04f:f993d00d27ab85213f9b3dc53d73ca63
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/69vfkahxgr/out/v1/dd4c2935bbd1458e96fea050cffb6de3/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",Palmeiras vs Remo - PREMIER SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
