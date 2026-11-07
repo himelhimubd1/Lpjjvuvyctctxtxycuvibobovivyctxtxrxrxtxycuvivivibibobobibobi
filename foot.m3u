@@ -55,7 +55,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/goikeune5k/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vahohrwe3w/out/v1/9a01afb3983444c9b0ebd5d4df2e47e2/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",AS Roma vs Sassuolo - DAZN DE FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",AS Roma vs Sassuolo - DAZN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -115,9 +115,9 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#KODIPROP:inputstream.adaptive.license_key=ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/IMG_20260927_091352_600.PNG" group-title="Football Events MPD By HOP",St. Mirren vs Rangers - PARAMOUNT+ FHD
 #KODIPROP:inputstream=inputstream.adaptive
