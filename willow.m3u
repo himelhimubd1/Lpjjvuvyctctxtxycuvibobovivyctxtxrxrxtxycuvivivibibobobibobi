@@ -3,9 +3,9 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf29a35e375da99d9ee225515621294e:41c2975121d22fd57ef0d436fa6d5971
+#KODIPROP:inputstream.adaptive.license_key=b107afb9c4f0fc911437a899bcccaf7c:56fb9ff0fd62018a100332cd35bdd207
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ztbf2k2id/out/v1/4ea8d6be295640c590d74f8f6fb9e722/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tt7bt6wnxg/out/v1/865dd41533dc426eb8cd944c1454c6e7/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Willow Cricket",Afghanistan vs Zimbabwe - WILLOW FHD
 #KODIPROP:inputstream=inputstream.adaptive
