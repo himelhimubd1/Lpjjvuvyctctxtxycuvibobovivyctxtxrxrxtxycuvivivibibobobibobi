@@ -3,9 +3,9 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=04afa3786bfbdb25de7c3ea3f5090f4c:f368f03d7c9c82af023ffcd99e533998
+#KODIPROP:inputstream.adaptive.license_key=2764047e84649b6654bdde1b3a11bacf:de670189df371c5a846531de6c70b8d5
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7abe0qpjti/out/v1/fe7054b659bf4f30becc49b4f7586440/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9uj3jxdjfn/out/v1/3fc10f2273a2423caac423e66ff23f41/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Willow Cricket",WBBL Women Big Bash League - WILLOW HD
 #KODIPROP:inputstream=inputstream.adaptive
